@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi There 👋
 
-My Name is Priyank Devurkar.
+My Name is <bold> Priyank Devurkar </bold>
 I am an enthusiastic Backend Developer and also have worked as a Project Manager.<br>
 I am interested in Web Development, Software Development with a focus on Backend Technologies.<br>
 Certified in PMP in 2025 and also interested in Project Management, Stakeholder Engagement, Agile Development, JIRA, Planning & Budgeting, End to End Project Delivery
