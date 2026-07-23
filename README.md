@@ -26,7 +26,7 @@ Please check out the project repository in my Github repo for the latest updates
 I can be reached at: 
 email:priyank.devurkar@yahoo.com/priyank.devurkar@gmail.com <br>
 phone:(+91) 8657621075<br>
-linkedin: <a href="http://www.linkedin.com/in/priyank-devurkar" target="_blank">http://www.linkedin.com/in/priyank-devurkar</a><br>
+linkedin: <a href="http://www.linkedin.com/in/priyank-devurkar" target="_new">http://www.linkedin.com/in/priyank-devurkar</a><br>
 More to come..<br>
 
 <!--
