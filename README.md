@@ -14,15 +14,19 @@ Container runtime & Image management using Docker<br>
 Container Orchestration using Kubernetes<br>
 Event messaging tools and Technologies like - Kafka<br>
 I have recently started looking into Cloud Frameworks and technologies particularly: AWS, GCP.<br>
-Also interested in learning frontend development using React, JQuery, HTML/CSS<br>
+I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS
 Project Management & Delivery<br>
 
 
 I am currently working on:<br>
 Home Energy Tracker Project (Java Spring Boot event based Microservices application to track energy usage and suggest tips to save - using AI (Spring AI + Ollama DeepSeeker)<br>
+Please check out the project repository in my Github repo for the latest updates and development status.
 
-I can be reached at: priyank.devurkar@yahoo.com/priyank.devurkar@gmail.com<br>
-
+<br>
+I can be reached at: 
+email:priyank.devurkar@yahoo.com/priyank.devurkar@gmail.com <br>
+phone:(+91) 8657621075<br>
+linkedin: <a href="http://www.linkedin.com/in/priyank-devurkar" target="_blank">http://www.linkedin.com/in/priyank-devurkar</a><br>
 More to come..<br>
 
 <!--
