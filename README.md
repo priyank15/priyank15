@@ -13,6 +13,7 @@ Microservices & patterns<br>
 Container runtime & Image management using Docker<br>
 Container Orchestration using Kubernetes<br>
 Event messaging tools and Technologies like - Kafka<br>
+I have recently started looking into Cloud Frameworks and technologies particularly: AWS, GCP.<br>
 Also interested in learning frontend development using React, JQuery, HTML/CSS<br>
 Project Management & Delivery<br>
 
