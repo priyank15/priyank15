@@ -1,12 +1,13 @@
 ## Hi There! 👋
 
 My Name is Priyank Devurkar <br>
-I am an enthusiastic Backend Developer and also have worked as a Project Manager.<br>
+I am an enthusiastic Backend Developer and an experienced Project Manager.<br>
 I am interested in Web Development, Software Development with a focus on Backend Technologies.<br>
-Certified in PMP in 2025 and also interested in Project Management, Stakeholder Engagement, Agile Development, JIRA, Planning & Budgeting, End to End Project Delivery
+I am certified in PMP and also good at Project Management especially leading projects for end-to-end delivery, Stakeholder Engagement, Scrum/Agile Development, JIRA, Planning & Budgeting, Team Management.<br>
+I have exposure in Fintech & BFSI Domain particularly Banking & Payment Systems (Local & Cross-Border Payments).<br>
 
 
-Technologies I work on:<br>
+Below are the technologies I work on:<br>
 Java<br>
 Spring Boot<br>
 Microservices & patterns<br>
