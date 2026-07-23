@@ -13,7 +13,7 @@ Microservices & patterns<br>
 Container runtime & Image management using Docker<br>
 Container Orchestration using Kubernetes<br>
 Event messaging tools and Technologies like - Kafka<br>
-I have recently started looking into Cloud Frameworks and technologies particularly: AWS, GCP.<br>
+I have recently started learning Cloud Frameworks and technologies particularly: AWS, GCP.<br>
 I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS
 Project Management & Delivery<br>
 
@@ -27,7 +27,9 @@ I can be reached at:
 email:priyank.devurkar@yahoo.com/priyank.devurkar@gmail.com <br>
 phone:(+91) 8657621075<br>
 linkedin: <a href="http://www.linkedin.com/in/priyank-devurkar" target="_new">http://www.linkedin.com/in/priyank-devurkar</a><br>
-More to come..<br>
+<br>
+
+<>br
 
 <!--
 **priyank15/priyank15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
