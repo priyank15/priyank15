@@ -29,7 +29,7 @@ phone:(+91) 8657621075<br>
 linkedin: <a href="http://www.linkedin.com/in/priyank-devurkar" target="_new">http://www.linkedin.com/in/priyank-devurkar</a><br>
 <br>
 
-<>br
+
 
 <!--
 **priyank15/priyank15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
