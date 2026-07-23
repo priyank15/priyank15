@@ -15,8 +15,8 @@ Container runtime & Image management using Docker<br>
 Container Orchestration using Kubernetes<br>
 Event messaging tools and Technologies like - Kafka<br>
 I have recently started learning Cloud Frameworks and technologies particularly: AWS, GCP.<br>
-I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS
-Project Management & Delivery<br>
+I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS <br>
+
 
 
 I am currently working on:<br>
