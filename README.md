@@ -20,7 +20,7 @@ I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and in
 
 
 I am currently working on:<br>
-<strong>Intelligent Household Energy Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy - using AI (Spring AI + Ollama + DeepSeeker)<br>
+<strong>Ecohome Power Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy - using AI (Spring AI + Ollama + DeepSeeker)<br>
 Please check out the project repository in my Github repo for the latest updates and development status.
 
 <br>
