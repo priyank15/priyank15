@@ -11,10 +11,10 @@ Below are the technologies I work on:<br>
 Java<br>
 Spring Boot<br>
 Microservices & patterns<br>
-Container runtime & Image management using Docker<br>
-Container Orchestration using Kubernetes<br>
-Event messaging tools and Technologies like - Kafka<br>
-I have recently started learning Cloud Frameworks and technologies particularly: AWS, GCP.<br>
+Container runtime & image management using Docker<br>
+Container orchestration using Kubernetes<br>
+Event messaging tools and technologies like - Kafka<br>
+I have recently started learning Cloud frameworks and technologies particularly: AWS, GCP.<br>
 I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS <br>
 
 
