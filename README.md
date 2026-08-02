@@ -20,8 +20,8 @@ I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and in
 
 
 I am currently working on:<br>
-<strong>Smart Power Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy implemented through a separate service - Insight Service (Spring AI + Ollama) <br>
-Please check out the project repository for the latest updates and development status.
+<strong>Smart Power Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy, implemented through a separate service - Insight Service (Spring AI + Ollama). <br>
+Please check out the project repository for the latest updates and status.
 
 <br>
 I can be reached at: 
