@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
-My name is Priyank Devurkar <br>
+This is Priyank Devurkar <br>
 I am interested in web development, software development with a focus on backend technologies.<br>
 I have recently been certified in PMP and worked as a Project Manager leading projects for end-to-end delivery.<br>
 I have exposure in Fintech & BFSI Domain particularly banking & payment systems (Local- UPI & Cross-Border Payments).<br>
