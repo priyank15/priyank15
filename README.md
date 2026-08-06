@@ -2,9 +2,7 @@
 
 This is Priyank Devurkar <br>
 I am interested in web development, software development with a focus on backend technologies.<br>
-I have recently been certified in PMP and worked as a Project Manager leading projects for end-to-end delivery.<br>
 I have exposure in Fintech & BFSI Domain particularly banking & payment systems (Local- UPI & Cross-Border Payments).<br>
-
 
 Below are the technologies I work on:<br>
 Java<br>
@@ -16,7 +14,7 @@ Event messaging tools and technologies like - Kafka<br>
 I have recently started learning Cloud frameworks and technologies particularly: AWS, GCP.<br>
 I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS <br>
 
-
+I have got a PMP certification in 2025 and have worked as a Project Manager leading projects for end-to-end delivery.<br>
 
 I am currently working on:<br>
 <strong>Smart Power Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy, implemented through a separate service - Insight Service (Spring AI + Ollama). <br>
