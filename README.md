@@ -17,7 +17,7 @@ I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and in
 I have got a PMP certification in 2025 and have worked as a Project Manager for the last 2 years leading projects for end-to-end delivery.<br>
 These experiences have given me a valuable insight in leading development teams and I feel more well equipped now to lead a team. I am looking for Technical Lead / Technical Project Manager roles.<br>
 
-I am currently working on:<br>
+I am currently working on my personal learning project:<br>
 <strong>Smart Power Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy, implemented through a separate service - Insight Service (Spring AI + Ollama). <br>
 Please check out the project repository for the latest updates and status.
 
