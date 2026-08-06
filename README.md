@@ -15,7 +15,7 @@ I have recently started learning Cloud frameworks and technologies particularly:
 I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS <br>
 
 I have got a PMP certification in 2025 and have worked as a Project Manager for the last 2 years leading projects for end-to-end delivery.<br>
-These Management experiences have given me a valuable insight in leading development teams and I feel that I am more well equipped to lead a team along with hands-on responsibilities as a Technical Lead / Technical Project Manager or Engineering Manager roles.<br>
+These Management experiences have given me a valuable insight in leading development teams and I feel that I am more well equipped to lead a team. I am looking for Technical Lead / Technical Project Manager roles.<br>
 
 I am currently working on:<br>
 <strong>Smart Power Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy, implemented through a separate service - Insight Service (Spring AI + Ollama). <br>
