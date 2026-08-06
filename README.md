@@ -14,8 +14,8 @@ Event messaging tools and technologies like - Kafka<br>
 I have recently started learning Cloud frameworks and technologies particularly: AWS, GCP.<br>
 I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS <br>
 
-I have been leading teams as a Project Manager for the last 2 years and got PMP certification in 2025, handling projects for end-to-end delivery.<br>
-These experiences have given me a valuable insight in leading development teams and I feel more well equipped now to lead a team. I am looking for Technical Lead / Technical Project Manager roles.<br>
+I have been leading teams as a Project Manager for the last 2 years, handling projects for end-to-end delivery and got PMP certified in 2025.<br>
+These experiences have given me a valuable insight in leading development teams and I feel more well equipped now to lead a team. I am looking for Java based  Technical Lead / Technical Project Manager roles.<br>
 
 I am currently working on my personal learning project:<br>
 <strong>Smart Power Monitor: </strong> A Java, Spring Boot, Event based Microservices application to track home device energy usage and suggest tips to save energy, implemented through a separate service - Insight Service (Spring AI + Ollama). <br>
