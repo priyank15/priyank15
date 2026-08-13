@@ -2,7 +2,7 @@
 
 This is Priyank Devurkar <br>
 I am interested in web development, software development with a focus on backend technologies.<br>
-I have exposure in Fintech & BFSI Domain particularly banking & payment systems (Local- UPI & Cross-Border Payments).<br>
+I have exposure in Fintech & BFSI Domain particularly banking & payment systems (Local-UPI & Cross-Border Payments).<br>
 
 Below are the technologies I work on:<br>
 Java<br>
