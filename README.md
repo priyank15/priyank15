@@ -12,7 +12,7 @@ Container runtime & image management using Docker<br>
 Container orchestration using Kubernetes<br>
 Event messaging tools and technologies like - Kafka<br>
 I have recently started learning Cloud frameworks and technologies particularly: AWS, GCP.<br>
-I have some exposure to frontend technologies like JSP/servlets, HTML/CSS and interested to learn ReactJS/NodeJS <br>
+I have some exposure to frontend/Web technologies like JSP/servlets, HTML/CSS, JavaScipt, JQuery, Groovy etc. and interested to learn ReactJS/NodeJS <br>
 
 In my recent experiences, I have been leading teams as a Project Manager, handling projects for end-to-end delivery. These experiences have given me a valuable insight in leading development teams and I feel more well equipped now to lead a team. I am looking for Java based  Technical Lead / Technical Project Manager roles. I got PMP certified in 2025. <br>
 
